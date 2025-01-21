@@ -1,6 +1,6 @@
 create a container using this docker image in the repository
 ---------------------------------------------------------------
-docker run -d -p 8080:80 --name static-web ohidur/self-contained-docker-image
+docker run -d -p 8080:80 --name static-web ohidur/self-contained-docker-image:latest
 
 
 explaination
