@@ -1,0 +1,10 @@
+create a container using this docker image in the repository
+---------------------------------------------------------------
+docker run -d -p 8080:80 --name static-web ohidur/self-contained-docker-image
+
+
+explaination
+--------------
+-d >> daemon mode, run on background
+-p >> 8080:80 (Host port: container port)
+--name >> docker name

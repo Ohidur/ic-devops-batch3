@@ -1,0 +1,6 @@
+Self Contained Docker File
+1. Create a Dockerfile that uses the web server of your choice to serve a static website
+2. Push the docker image into a public repository
+3. Add the command to create a container using this docker image in the repository description
+4. Put the Dockerfile and other related files in a git repository so that the Docker image can be reproduced
+5. Submit the docker hub repository link and git repository link as class work
